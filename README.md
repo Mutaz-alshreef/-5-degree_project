@@ -39,8 +39,8 @@ This model can serve as the base for:
 - Apply inverse kinematics using software libraries (e.g., Python or MATLAB)
 
 ## 📸 Preview
+![Mighty Lahdi-Wolt](https://github.com/user-attachments/assets/9249f4fd-f69a-4953-bb7b-3ee46c9deb99)
 
-![Robotic Arm 5-DOF](./Mighty%20Lahdi-Wolt.png)
 
 ## 🗃️ Files
 
